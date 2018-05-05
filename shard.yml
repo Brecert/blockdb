@@ -1,0 +1,13 @@
+name: blockdb
+version: 0.1.0
+
+authors:
+  - Brecert <brecert@memework.org>
+
+targets:
+  blockdb:
+    main: src/blockdb.cr
+
+crystal: 0.24.1
+
+license: MIT
